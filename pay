@@ -1,9 +1,4 @@
 [{
   "action": "talk",
   "text": "time to make Jamie rich"
-},
-  {
-     "action": "pay",
-     "amount": 1.00
-  }
-]
+}]
